@@ -6,6 +6,7 @@
         <option value="de-DE" selected>German</option>
         <option value="en-US">English</option>
         <option value="es-MX">Spanish</option>
+        <option value="yy-YY">FAKE LANGUAGE</option>
       </select>
     </div>
     <br />
